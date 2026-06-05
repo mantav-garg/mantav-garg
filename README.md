@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**mantav-garg/mantav-garg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![](https://visitcount.itsvg.in/api?id=mantav-garg&icon=5&color=6)](https://visitcount.itsvg.in)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7E800FD&center=true&width=435&lines=%F0%9F%91%8B+Hello%2C+World!;%F0%9F%91%8B+Hi%2C+I'm+Mantav!)](https://github.com/mantav-garg)
+
+</div>
+
+---
+
+## 👩‍💻 About Me
+
+- 🌱 **Tham Jao**
+
+###
