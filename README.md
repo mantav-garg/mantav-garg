@@ -10,6 +10,5 @@
 
 ## 📲 Contact Me
 - 📧 **mantavgarg12@gmail.com**
-- 🐦 **[Twitter](x.com/MantavGarg)**
 
 ###
