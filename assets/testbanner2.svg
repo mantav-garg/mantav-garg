@@ -1,8 +1,7 @@
 
-<svg width="1200" height="400" viewBox="0 0 1200 400" xmlns="http://www.w3.org/2000/svg">
+<svg width="1000" height="400" viewBox="0 0 1200 400" xmlns="http://www.w3.org/2000/svg">
   <rect width="1200" height="400" fill="#05060a"/>
 <g>
-
   <g opacity="0.20">
     <circle cx="180" cy="140" r="1.8" fill="#ffffff">
       <animate attributeName="cy" values="140;110;140" dur="10s" repeatCount="indefinite"/>
@@ -44,7 +43,9 @@
       <animate attributeName="cy" values="120;140;120" dur="5.5s" repeatCount="indefinite"/>
     </circle>
   </g>
+
 </g>
+
 <text x="600" y="200"
       text-anchor="middle"
       font-family="Inter, Arial, sans-serif"
@@ -53,6 +54,9 @@
       fill="#e6edf3"
       letter-spacing="10"
       opacity="0">
+
+  MANTAV
+
   <animate attributeName="opacity"
            from="0"
            to="1"
@@ -68,12 +72,14 @@
       rx="1"
       fill="#e6edf3"
       opacity="0">
+
   <animate attributeName="opacity"
            from="0"
            to="0.55"
            begin="0.7s"
            dur="0.4s"
            fill="freeze"/>
+
   <animate attributeName="x"
            from="600"
            to="525"
@@ -88,6 +94,8 @@
            dur="0.9s"
            fill="freeze"/>
 </rect>
+
+
 <text x="600" y="235"
       text-anchor="middle"
       font-family="Inter, Arial, sans-serif"
@@ -96,6 +104,9 @@
       fill="#8b949e"
       letter-spacing="6"
       opacity="0">
+
+  PYTHON • C++ • FRONTEND
+
   <animate attributeName="opacity"
            from="0"
            to="1"
@@ -103,8 +114,11 @@
            begin="0.6s"
            fill="freeze"/>
 </text>
+
   <rect width="1200" height="400" filter="url(#noise)" opacity="0.25"/>
+
   <defs>
+
     <radialGradient id="g1">
       <stop offset="0%" stop-color="#6d28d9"/>
       <stop offset="100%" stop-color="#05060a"/>
