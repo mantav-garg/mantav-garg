@@ -6,8 +6,8 @@
 
 - 🌱 **Abhi FrontEnd Seekha Nhi hai Jald Hi Karunga**
 - ✨ Creating bugs since 2022
-- ❤️ Love : •Media •Tech •Art •Psychology •Science
-- ✨I like to make visualisations of data and automation, cuz I’m too lazy to do boring stuff🥱✌️
+- ❤️ •Media •Tech •Art •Psychology •Science
+- ✨ I like to make visualisations of data and automation, cuz I’m too lazy to do boring stuff🥱✌️
 
 ###
 

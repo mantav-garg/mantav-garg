@@ -330,9 +330,9 @@
 <polygon points="539.38,220.20 550.66,224.31 539.38,228.41 528.11,224.31" fill="#0a4a5c"/>
 <polygon points="528.11,248.31 528.11,224.31 539.38,228.41 539.38,252.41" fill="#084150"/>
 <polygon points="539.38,252.41 539.38,228.41 550.66,224.31 550.66,248.31" fill="#073644"/>
-<polygon points="526.23,184.99 537.50,189.09 526.23,193.20 514.95,189.09" fill="#7fe0ff"/>
-<polygon points="514.95,253.09 514.95,189.09 526.23,193.20 526.23,257.20" fill="#6fc5e0"/>
-<polygon points="526.23,257.20 526.23,193.20 537.50,189.09 537.50,253.09" fill="#5da5bc"/>
+<polygon points="526.23,184.99 537.50,189.09 526.23,193.20 514.95,189.09" fill="#12a8d1"/>
+<polygon points="514.95,253.09 514.95,189.09 526.23,193.20 526.23,257.20" fill="#0f93b7"/>
+<polygon points="526.23,257.20 526.23,193.20 537.50,189.09 537.50,253.09" fill="#0d7c9a"/>
 <polygon points="618.32,225.05 629.59,229.15 618.32,233.26 607.04,229.15" fill="#0f2c37"/>
 <polygon points="605.16,229.84 616.44,233.94 605.16,238.05 593.89,233.94" fill="#0f2c37"/>
 <polygon points="592.01,234.63 603.28,238.73 592.01,242.83 580.73,238.73" fill="#0f2c37"/>
@@ -381,18 +381,18 @@
 <polygon points="657.78,223.57 669.06,227.67 657.78,231.78 646.51,227.67" fill="#0a4a5c"/>
 <polygon points="646.51,262.67 646.51,227.67 657.78,231.78 657.78,266.78" fill="#084150"/>
 <polygon points="657.78,266.78 657.78,231.78 669.06,227.67 669.06,262.67" fill="#073644"/>
-<polygon points="644.63,202.36 655.91,206.46 644.63,210.56 633.35,206.46" fill="#12a8d1"/>
-<polygon points="633.35,267.46 633.35,206.46 644.63,210.56 644.63,271.56" fill="#0f93b7"/>
-<polygon points="644.63,271.56 644.63,210.56 655.91,206.46 655.91,267.46" fill="#0d7c9a"/>
+<polygon points="644.63,199.36 655.91,203.46 644.63,207.56 633.35,203.46" fill="#12a8d1"/>
+<polygon points="633.35,267.46 633.35,203.46 644.63,207.56 644.63,271.56" fill="#0f93b7"/>
+<polygon points="644.63,271.56 644.63,207.56 655.91,203.46 655.91,267.46" fill="#0d7c9a"/>
 <polygon points="631.47,268.14 642.75,272.25 631.47,276.35 620.20,272.25" fill="#0f2c37"/>
 <polygon points="618.32,272.93 629.59,277.04 618.32,281.14 607.04,277.04" fill="#0f2c37"/>
 <polygon points="605.16,277.72 616.44,281.82 605.16,285.93 593.89,281.82" fill="#0f2c37"/>
 <text x="364.25" y="-164.00" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-size="15" font-weight="700" fill="#eaf7fb">Contributions/Submissions</text>
 <rect x="364.25" y="-146.00" width="340.00" height="92.00" rx="10" fill="#081c24" stroke="#123846" stroke-width="0.8" fill-opacity="0.96"/>
-<text x="386.25" y="-112.00" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-size="26" font-weight="700" fill="#7fe0ff">30</text>
+<text x="386.25" y="-112.00" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-size="26" font-weight="700" fill="#7fe0ff">31</text>
 <text x="386.25" y="-90.00" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-size="12" font-weight="600" fill="#eaf7fb">This year</text>
 <text x="386.25" y="-72.00" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-size="10.5" fill="#7fa8b5">Jul 13 → Jul 18</text>
-<text x="499.59" y="-112.00" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-size="26" font-weight="700" fill="#7fe0ff">13</text>
+<text x="499.59" y="-112.00" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-size="26" font-weight="700" fill="#7fe0ff">14</text>
 <text x="499.59" y="-90.00" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-size="12" font-weight="600" fill="#eaf7fb">This week</text>
 <text x="499.59" y="-72.00" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-size="10.5" fill="#7fa8b5">Jul 12 → Jul 18</text>
 <text x="612.92" y="-112.00" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-size="26" font-weight="700" fill="#7fe0ff">8</text>
