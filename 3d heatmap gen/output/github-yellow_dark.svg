@@ -381,18 +381,18 @@
 <polygon points="657.78,223.57 669.06,227.67 657.78,231.78 646.51,227.67" fill="#FFE135"/>
 <polygon points="646.51,262.67 646.51,227.67 657.78,231.78 657.78,266.78" fill="#e0c62e"/>
 <polygon points="657.78,266.78 657.78,231.78 669.06,227.67 669.06,262.67" fill="#bca627"/>
-<polygon points="644.63,206.36 655.91,210.46 644.63,214.56 633.35,210.46" fill="#EDC001"/>
-<polygon points="633.35,267.46 633.35,210.46 644.63,214.56 644.63,271.56" fill="#d0a800"/>
-<polygon points="644.63,271.56 644.63,214.56 655.91,210.46 655.91,267.46" fill="#af8e00"/>
+<polygon points="644.63,202.36 655.91,206.46 644.63,210.56 633.35,206.46" fill="#EDC001"/>
+<polygon points="633.35,267.46 633.35,206.46 644.63,210.56 644.63,271.56" fill="#d0a800"/>
+<polygon points="644.63,271.56 644.63,210.56 655.91,206.46 655.91,267.46" fill="#af8e00"/>
 <polygon points="631.47,268.14 642.75,272.25 631.47,276.35 620.20,272.25" fill="#282828"/>
 <polygon points="618.32,272.93 629.59,277.04 618.32,281.14 607.04,277.04" fill="#282828"/>
 <polygon points="605.16,277.72 616.44,281.82 605.16,285.93 593.89,281.82" fill="#282828"/>
 <text x="364.25" y="-164.00" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-size="15" font-weight="700" fill="#e6edf3">Contributions/Submissions</text>
 <rect x="364.25" y="-146.00" width="340.00" height="92.00" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="0.8" fill-opacity="0.96"/>
-<text x="386.25" y="-112.00" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-size="26" font-weight="700" fill="#FFDA03">29</text>
+<text x="386.25" y="-112.00" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-size="26" font-weight="700" fill="#FFDA03">30</text>
 <text x="386.25" y="-90.00" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-size="12" font-weight="600" fill="#e6edf3">This year</text>
 <text x="386.25" y="-72.00" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-size="10.5" fill="#7d8590">Jul 13 → Jul 18</text>
-<text x="499.59" y="-112.00" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-size="26" font-weight="700" fill="#FFDA03">12</text>
+<text x="499.59" y="-112.00" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-size="26" font-weight="700" fill="#FFDA03">13</text>
 <text x="499.59" y="-90.00" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-size="12" font-weight="600" fill="#e6edf3">This week</text>
 <text x="499.59" y="-72.00" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-size="10.5" fill="#7d8590">Jul 12 → Jul 18</text>
 <text x="612.92" y="-112.00" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif' font-size="26" font-weight="700" fill="#FFDA03">8</text>
