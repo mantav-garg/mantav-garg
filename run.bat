@@ -1,5 +1,3 @@
-@echo off
-
 cd "3d heatmap gen" || exit /b
 call venv\Scripts\activate.bat
 
