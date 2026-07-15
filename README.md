@@ -6,13 +6,15 @@
 
 - 🌱 **Abhi FrontEnd Seekha Nhi hai Jald Hi Karunga**
 - ✨ Creating bugs since 2022
-- ❤️ •Media •Tech •Art •Psychology •Science
-- ✨ I like to make visualisations of data and automation, cuz I’m too lazy to do boring stuff🥱✌️
+- ❤️ •Tech •Media •Art •Psychology •Science
+- ✨ I like to make visualisations of data (graphs and stuff) and automation, cuz I’m too lazy🥱✌️
 
 ###
 
-## 📲 Contact Me
-- 📧 **mantavgarg12@gmail.com**
+## 📲 Profiles
+- 📧 **leetcode.com/u/MantavGarg**
+- 📸 **instagram.com/mantav_garg**
+- 🕊️ **x.com/MantavGarg**
 
 ## Github activity
 <img src="3d heatmap gen/output/github-dark.svg#gh-dark-mode-only" width="50%" alt="github dark">

@@ -33,7 +33,7 @@ from pathlib import Path
 
 PALETTES = {
     "dark": {
-        "name": "Dark",
+        "name": "Github Dark",
         "background": "#0d1117",
         "empty": "#1e232b",
         "levels": ["#0e4429", "#006d32", "#26a641", "#39d353"],
@@ -41,7 +41,7 @@ PALETTES = {
         "panel": {"bg": "#0d1117", "border": "#30363d"},
     },
     "light": {
-        "name": "Light",
+        "name": "Github Light",
         "background": "#ffffff",
         "empty": "#C2C3C6",
         "levels": ["#9be9a8", "#40c463", "#30a14e", "#216e39"],
@@ -49,7 +49,7 @@ PALETTES = {
         "panel": {"bg": "#ffffff", "border": "#d0d7de"},
     },
     "yellow_dark": {
-        "name": "Yellow",
+        "name": "Yellow Dark",
         "background": "#0d1117",
         "empty": "#282828",
         "levels": ["#FFE135", "#FFDA03", "#EDC001", "#C49102"],
@@ -57,7 +57,7 @@ PALETTES = {
         "panel": {"bg": "#0d1117", "border": "#30363d"},
     },
     "yellow_light": {
-        "name": "Yellow",
+        "name": "Yellow Light",
         "background": "#ffffff",
         "empty": "#C2C3C6",
         "levels": ["#C49102", "#EDC001", "#FFDA03", "#FFE135"],
@@ -245,12 +245,21 @@ def compute_stats(cells: list[dict]) -> dict:
         else:
             run_start = None
 
-    # Current streak: consecutive days with count > 0 ending at the most
-    # recent day in the grid (today). Zero if today has no contributions.
+    # Current streak: consecutive days with count > 0 ending at today.
+    # build_week_grid() always pads the grid out to the end of the
+    # calendar week (through Saturday), so the *last* cells in the grid
+    # can be future dates with count 0 whenever today isn't a Saturday.
+    # Starting the scan from the grid's last cell would hit one of those
+    # empty future days first and break immediately, making the current
+    # streak read as 0 on every day but Saturday. Skip those future
+    # padding cells and start counting from today instead.
+    today = datetime.date.today()
     current_len = 0
     current_start = None
     current_end = None
     for c in reversed(cells):
+        if c["date"] > today:
+            continue
         if c["count"] > 0:
             current_len += 1
             current_start = c["date"]

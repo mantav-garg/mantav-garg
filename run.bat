@@ -10,7 +10,7 @@ cd ..
 git add .
 git diff --cached --quiet
 if errorlevel 1 (
-    git commit -m "regular svg update"
+    git commit -m "update"
     git push origin main
 ) else (
     echo No changes to commit.
