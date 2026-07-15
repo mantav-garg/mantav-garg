@@ -1,0 +1,22 @@
+```gitignore
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+ENV/
+.vscode/
+.idea/
+*.code-workspace
+.env
+.env.*
+
+*.tmp
+*.bak
+*.swp
+
+# Generated Data
+data/
+
+```
