@@ -2,10 +2,10 @@
   <img src="assets/banner.svg" width="100%">
 </p>
 
-## 👩‍💻 About Me
+## About Me
 - Creating bugs since 2022
 - Tech, Media, Art, Psychology, Science
-- I like to make visualisations of data (graphs and stuff) and automation (makes me feel great)
+- I like to make data visualisations and do automation
 
 | Github | Leetcode |
 | :---: | :---: |
