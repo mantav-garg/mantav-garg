@@ -64,22 +64,6 @@ PALETTES = {
         "text": {"primary": "#1f2328", "secondary": "#59636e", "accent": "#C49102"},
         "panel": {"bg": "#ffffff", "border": "#d0d7de"},
     },
-    "ocean": {
-        "name": "Ocean",
-        "background": "#081c24",
-        "empty": "#0f2c37",
-        "levels": ["#0a4a5c", "#0d7595", "#12a8d1", "#7fe0ff"],
-        "text": {"primary": "#eaf7fb", "secondary": "#7fa8b5", "accent": "#7fe0ff"},
-        "panel": {"bg": "#081c24", "border": "#123846"},
-    },
-    # "sunset": {
-    #     "name": "Sunset",
-    #     "background": "#1a1023",
-    #     "empty": "#2a1c33",
-    #     "levels": ["#7d2e68", "#c8395a", "#f2703c", "#ffc857"],
-    #     "text": {"primary": "#fdf3e7", "secondary": "#b79aa8", "accent": "#ffc857"},
-    #     "panel": {"bg": "#1a1023", "border": "#3a2740"},
-    # },
 }
 
 FONT_STACK = '-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif'

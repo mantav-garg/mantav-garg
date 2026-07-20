@@ -19,28 +19,13 @@ from pathlib import Path
 from parsers import github_parser, leetcode_parser
 from svg_generator import PALETTES, render_svg_from_csv
 
-# ---------------------------------------------------------------------------
-# Configuration - set your usernames here
-# ---------------------------------------------------------------------------
-
 GITHUB_USERNAME = "mantav-garg"
 LEETCODE_USERNAME = "MantavGarg"
-
 DATA_DIR = Path("data")
 OUTPUT_DIR = Path("output")
-
-# Every theme registered in svg_generator.PALETTES gets rendered
-# automatically - rendering an extra theme is a cheap, purely local
-# operation, so there's no need to curate this list by hand.
-THEMES = tuple(PALETTES.keys())
-
-# If True, the SVG's outer canvas is left transparent (no full-bleed
-# background rect) - handy for embedding in a README on top of GitHub's
-# own page background. The stat cards keep their own panel background
-# either way, so their text stays legible. If False, each theme's
-# "background" color fills the whole canvas (the "card" look).
 TRANSPARENT_BACKGROUND = False
 
+THEMES = tuple(PALETTES.keys())
 # ---------------------------------------------------------------------------
 # Data source registry
 #
