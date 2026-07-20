@@ -27,7 +27,7 @@
 <a href="https://www.instagram.com/mantav_garg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Mantav" height="30" width="40" /></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mantav-garg&label=Profile%20views&color=0e75b6&style=flat" alt="mantav-num" /> </p>
+
 
 Text to remind me of adding -\
 < resume>\
@@ -37,3 +37,4 @@ Text to remind me of adding -\
 [ i ]  - no, I don't use any automated commits/tests/tools to fake my contribution graph, i manually update the SVGs above once a week or month
 
 I do use AI, but I believe good code needs human judgment and creativity. Making something worth using is the hard part. What I care about most is building things that feel polished and intentional. Using AI to move faster, not think less.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mantav-garg&label=Profile%20views&color=0e75b6&style=flat" alt="mantav-num" /> </p>
